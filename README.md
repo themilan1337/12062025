@@ -1,5 +1,7 @@
 # FastAPI + OpenAI Realtime API Voice Chat Application
 
+docker3
+
 A modern web application built with FastAPI, PostgreSQL, Redis, Celery, and OpenAI's Realtime API for voice-to-voice conversations.
 
 ## 🚀 Features
